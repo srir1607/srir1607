@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 ---
 
 ### About me
-- I build **production-ready GenAI + retrieval systems**, **agentic AI workflows**, and **scalable data/ML infra**.
-- My CS specializations are Artificial Intelligence and Distributed Systems/Networks **.
+- I like to build production-ready pipelines and systems, using agentic AI workflows, and scalable infrastructure.
+- My CS specializations are **Artificial Intelligence and Distributed Systems/Networks**.
 - I am passionate about building technical and innovative solutions at scale. 
 
 ### Contact
