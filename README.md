@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **srir1607/srir1607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
