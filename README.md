@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 
 ### About me
 - I build **production-ready GenAI + retrieval systems**, **agentic AI workflows**, and **scalable data/ML infra**.
-- B.S./M.S. in Computer Science, Specializations: **AI** & **Machine Learning**.
-- I am passionate about shipping products that create **real impact at scale**!
+- My CS specializations are Artificial Intelligence and Distributed Systems/Networks **.
+- I am passionate about building technical and innovative solutions at scale. 
 
 ### Contact
 - LinkedIn: **[srir1607](https://www.linkedin.com/in/srir1607/)**
